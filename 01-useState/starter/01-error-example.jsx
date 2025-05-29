@@ -1,5 +1,5 @@
 const ErrorExample = () => {
-  let count = 0;
+  let count = 1;
   const handleClick = () => {
     count = count + 1;
   };
